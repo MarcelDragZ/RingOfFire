@@ -1,0 +1,16 @@
+{
+  "projects": {
+    "default": "bewerbungdatabase",
+    "ringoffire": "bewerbungdatabase"
+  },
+  "targets": {
+    "lopl-aeced": {
+      "hosting": {
+        "RingOfFire": [
+          "lopl-aeced"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
